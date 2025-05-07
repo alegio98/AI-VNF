@@ -10,4 +10,4 @@ Key points:
 - Evaluated performance using R², MAE, MSE, and RMSE across different VNFs
 - Implemented in Python using Scikit-learn; analysis supported by real-world use cases in NFV/SDN
 
-# Final goal: enabling dynamic scaling strategies to reduce cost and energy waste for enterprise systems
+### Final goal: enabling dynamic scaling strategies to reduce cost and energy waste for enterprise systems
